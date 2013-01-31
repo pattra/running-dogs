@@ -1,0 +1,24 @@
+body{
+	background-image: url("assets/omfgdogs.gif");
+	/* background-repeat: repeat; */
+	font-family: Calibri, Verdana, Arial;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+
+a{
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover{
+	font-style: italic;
+}
+
+#creditlink{
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+	font-size: 32px;
+}
